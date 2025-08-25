@@ -1,4 +1,5 @@
 Markov Text Generator
+
 **Overview**
 
 This project implements a Markov chain–based text generator using Java. It models sequences of words from a training text and produces new, statistically realistic passages based on the learned patterns. The project highlights the use of immutable data structures, hashing for efficiency, and generative modeling techniques in natural language processing.
