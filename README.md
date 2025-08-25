@@ -29,7 +29,7 @@ Used JUnit to validate functionality of WordGram and HashMarkov.
 
 Ensured correctness through both functional and efficiency tests.
 
-** Technologies & Skills**
+**Technologies & Skills**
 
 Language: Java
 
